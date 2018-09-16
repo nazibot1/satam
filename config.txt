@@ -1,4 +1,4 @@
-token=NDc0NTY1NzA5MTQ2NDg4ODMy.Dn9KEA.b2svc_LPFUNlE_gG1lgbUwJIoQ4
+token=NDc0NTY1ODUwMjU5NzgzNjgx.Dn9MSQ.OvfLYWg6Gdi5NfmegdbvMQIF5l0
 owner=405521917903110145
 prefix=Sy
 game=
